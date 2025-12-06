@@ -2,6 +2,12 @@
 Looks Good To Me
 
 ```
+![LGTM](https://wasabina67.is-a.dev/lgtm/images/6.png)
+```
+
+![LGTM](https://wasabina67.is-a.dev/lgtm/images/6.png)
+
+```
 ![LGTM](https://wasabina67.is-a.dev/lgtm/images/5.png)
 ```
 
